@@ -1,0 +1,71 @@
+
+[
+  {
+    "id": "chap1",
+    "title": "J'ecris ton nom, liberté",
+    "qcms": [
+      {
+        "question": "Que signifie liberté?",
+        "proposition": [
+          "Pouvoir de tenir un peuple dans l'asservissement",
+          "Pouvoir d'agir sans contrainte",
+          "Pouvoir d'autorité"
+        ],
+        "reponse": 0
+      },
+      {
+        "question": "Qui a ecrit à ma mère?",
+        "proposition": [
+          "David Diop",
+          "Aimer cesaire",
+          "Paul Eluard"
+        ],
+        "reponse": 0
+      },
+      {
+        "question": "Qu'est ce que le symbole de la liberté?",
+        "proposition": [
+          "Signe representant abstraite à la liberté",
+          "Image representant plus ou moins concretement à la liberté",
+          "Dessin representant plus ou moins abstraite du sens que l'on donne au mot liberté"
+        ],
+        "reponse": 0
+      }
+    ]
+  },
+  {
+    
+       "id": "chap2",
+      "title": "Liberté à l'abandon",
+      "qcms": [
+        {
+          "question": "Que signifie l'expression Execution Sommaire?",
+          "proposition": [
+            "Assasinat de personne, sans mobile apparent, et sans qu'il y ait eu un jugement",
+            "Abus de pouvoir",
+            "Actes de violence"
+          ],
+          "reponse": 0
+        },
+        {
+          "question": "Que signifie l'expression esclavage?",
+          "proposition": [
+            "Supplice physique ou moral que l'on fait subir à quelqu'un",
+            "Servitude, asservissement",
+            "Exaction effectuer sur quelqu'un"
+          ],
+          "reponse": 0
+        },
+        {
+          "question": "Qu'est ce que Amnesty International",
+          "proposition": [
+            "Organisation gouvernementale qui promeut la defense de droits de l'Homme",
+            "Organisation non gouvernementale qui dispose des moyens dont un peuple a besoin",
+            "Organisation non gouvernementale qui prommeut la defense de droits de l'Homme"
+          ],
+          "reponse": 0
+        }
+       ]
+    
+  }
+]
